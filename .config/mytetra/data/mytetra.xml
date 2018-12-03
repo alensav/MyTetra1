@@ -13,6 +13,11 @@
      <record id="1543739752llscxwqfwp" name="XEOMA" author="alensav" url="" tags="" ctime="20181202113552" dir="1543739752xn467tdg96" file="text.html"/>
      <record id="1543742325vnds07cd1i" name="XEOMA_РУКОВОДСТВО" author="" url="" tags="" ctime="20181202121845" dir="1543742325si41cnd6b2" file="text.html"/>
     </recordtable>
+    <node crypt="" id="154382674372he9wscu4" name="GitLab">
+     <recordtable>
+      <record id="1543826838fphszo46kq" name="Git_Lab-command" author="alensav" url="" tags="GitLab, site" ctime="20181203114718" dir="1543826838j8j028wuk7" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
