@@ -6,12 +6,15 @@
   <node crypt="" id="1300000000aaaaaaaaa1" name="MyTetra">
    <recordtable>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="154395238261cdn75c38" name="Git_Lab_documents" author="alensav" url="" tags="git, настройки" ctime="20181204223942" dir="1543952382jqvw57nud4" file="text.html"/>
    </recordtable>
    <node crypt="" id="15437322986o0fl98cty" name="Ubuntu_Command">
     <recordtable>
      <record id="1543732416pofscthyn3" name="SSH_пересылка файлов" author="alensav" url="" tags="ssh_, ubuntu" ctime="20181202093336" dir="1543732416t8o93qjbis" file="text.html"/>
      <record id="1543739752llscxwqfwp" name="XEOMA" author="alensav" url="" tags="" ctime="20181202113552" dir="1543739752xn467tdg96" file="text.html"/>
      <record id="1543742325vnds07cd1i" name="XEOMA_РУКОВОДСТВО" author="" url="" tags="" ctime="20181202121845" dir="1543742325si41cnd6b2" file="text.html"/>
+     <record id="15439373093rjt28u1ry" name="Android_на_Virtualbox" author="alensav" url="http://lumpics.ru/installation-android-on-virtualbox/" tags="android, virtual" ctime="20181204182829" dir="1543937309o0xzl428sb" file="text.html"/>
+     <record id="15439450349pxfcb9q1b" name="Flash player" author="alensav" url="https://support.mozilla.org/ru/kb/upravlenie-plaginom-flash" tags="ubuntu, настройки" ctime="20181204203714" dir="15439450343as5j2ma0o" file="text.html"/>
     </recordtable>
     <node crypt="" id="154382674372he9wscu4" name="GitLab">
      <recordtable>
