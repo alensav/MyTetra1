@@ -33,6 +33,11 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1544111400vnc868hc3v" name="GRUB">
+    <recordtable>
+     <record id="1544111478ublyns1g8z" name="GRUB" author="alensav" url="https://losst.ru/nastrojka-zagruzchika-grub" tags="grub, загрузка" ctime="20181206185118" dir="1544111478newz228zvr" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
