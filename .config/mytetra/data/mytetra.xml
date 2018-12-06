@@ -17,6 +17,10 @@
      <record id="15439373093rjt28u1ry" name="Android_на_Virtualbox" author="alensav" url="http://lumpics.ru/installation-android-on-virtualbox/" tags="android, virtual" ctime="20181204182829" dir="1543937309o0xzl428sb" file="text.html"/>
      <record id="15439450349pxfcb9q1b" name="Flash player" author="alensav" url="https://support.mozilla.org/ru/kb/upravlenie-plaginom-flash" tags="ubuntu, настройки" ctime="20181204203714" dir="15439450343as5j2ma0o" file="text.html"/>
      <record id="15439924086nqp263ahw" name="dd_Commands" author="alensav" url="https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu" tags="dd, command, командыб загрузочная" ctime="20181205094648" dir="1543992408g897o5ntba" file="text.html"/>
+     <record id="15440216859px9ixnjh6" name="rsync _СИНХРОНИЗАЦИЯ" author="alensav" url="https://webhamster.ru/webmytetra#" tags="sync, синхронизация, резервирование" ctime="20181205175445" dir="1544021685b4gtc9nllb" file="text.html"/>
+     <record id="1544022215rlqi4w808x" name="Обзор систем бекапа в ubuntu" author="alensav" url="https://webhamster.ru/webmytetra#" tags="" ctime="20181205180335" dir="154402221590u2rln80a" file="text.html"/>
+     <record id="15440227495kk4agnh16" name="rsnapshot " author="alensav" url="https://habr.com/post/45912/" tags="резервное, копир, sync" ctime="20181205181229" dir="1544022749p2k0eqzc0m" file="text.html"/>
+     <record id="1544029759unlhycpo4t" name="Postfix" author="alensav" url="https://1cloud.ru/help/linux/postfix-dovecot-na-ubuntu" tags="mail, почта" ctime="20181205200919" dir="1544029759vgb6xe3elv" file="text.html"/>
     </recordtable>
     <node crypt="" id="154382674372he9wscu4" name="GitLab">
      <recordtable>
