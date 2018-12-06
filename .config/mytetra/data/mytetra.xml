@@ -9,6 +9,7 @@
     <record id="154395238261cdn75c38" name="Git_Lab_documents" author="alensav" url="" tags="git, настройки" ctime="20181204223942" dir="1543952382jqvw57nud4" file="text.html"/>
     <record id="1543956914oeuuyvc44o" name="Графический_интерфейс_GIT GUI" author="alensav" url="https://git-scm.com/book/ru/v2/Appendix-A%3A-Git-%D0%B2-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D1%85-%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B" tags="mytetra, настройкиб графический" ctime="20181204235514" dir="15439569142zp4n9a2sq" file="text.html"/>
     <record id="1544080871l5vctfb4u8" name="Синхронизация MyTetra" author="alensav" url="https://webhamster.ru/site/page/index/articles/projectcode/170" tags="sync, синхронизация, mytetra" ctime="20181206102111" dir="1544080871jfy9lkki92" file="text.html"/>
+    <record id="1544083649hz73m9h5w3" name="Синхронизация данных MyTetra с другими компьютерами" author="alensav" url="https://webhamster.ru/site/page/index/articles/projectcode/170" tags="sync, синхронизация" ctime="20181206110729" dir="1544083649wpm8hfn9zy" file="text.html"/>
    </recordtable>
    <node crypt="" id="15437322986o0fl98cty" name="Ubuntu_Command">
     <recordtable>
@@ -22,6 +23,9 @@
      <record id="1544022215rlqi4w808x" name="Обзор систем бекапа в ubuntu" author="alensav" url="https://webhamster.ru/webmytetra#" tags="" ctime="20181205180335" dir="154402221590u2rln80a" file="text.html"/>
      <record id="15440227495kk4agnh16" name="rsnapshot " author="alensav" url="https://habr.com/post/45912/" tags="резервное, копир, sync" ctime="20181205181229" dir="1544022749p2k0eqzc0m" file="text.html"/>
      <record id="1544029759unlhycpo4t" name="Postfix" author="alensav" url="https://1cloud.ru/help/linux/postfix-dovecot-na-ubuntu" tags="mail, почта" ctime="20181205200919" dir="1544029759vgb6xe3elv" file="text.html"/>
+     <record id="1544086048v5wiwuga48" name="Запуск команд по времени" author="alensav" url="https://www.opennet.ru/docs/RUS/linux_base/node40.html" tags="command, time, команда, время" ctime="20181206114728" dir="1544086048ebq1esace6" file="text.html"/>
+     <record id="154409549373h0ip5hpq" name=" watch" author="alensav" url="https://www.nixp.ru/recipes/33.html" tags="timr, время" ctime="20181206142453" dir="1544095493cp5on2ijc2" file="text.html"/>
+     <record id="1544097005zde4u9p9ag" name="CP_remote_local" author="alensav" url="https://www.shellhacks.com/ru/copy-files-ssh-10-examples/" tags="cp, copir, копир" ctime="20181206145005" dir="1544097005ro4oo2ttji" file="text.html"/>
     </recordtable>
     <node crypt="" id="154382674372he9wscu4" name="GitLab">
      <recordtable>
