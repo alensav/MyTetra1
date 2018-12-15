@@ -59,6 +59,11 @@
      <record id="1544111478ublyns1g8z" name="GRUB" author="alensav" url="https://losst.ru/nastrojka-zagruzchika-grub" tags="grub, загрузка" ctime="20181206185118" dir="1544111478newz228zvr" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1544800856rl0gmtktm0" name="INTERNET">
+    <recordtable>
+     <record id="1544800918skmgdunurm" name="TEST SPEED" author="alensav" url="https://www.shellhacks.com/ru/test-internet-speed-linux-command-line/" tags="скорость, тест, замер" ctime="20181214182158" dir="1544800918ibwyrysssu" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
