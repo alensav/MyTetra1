@@ -13,6 +13,7 @@
     <record id="154419695825ztvwh9yi" name="Управление окном MyTetra " author="alensav" url="https://webhamster.ru/site/page/index/articles/projectcode/499" tags="mytetra, окна" ctime="20181207183558" dir="15441969589wjijyjhlx" file="text.html"/>
     <record id="1544456078921jn2qjde" name="Tig – консольный браузер для репозиториев Git" author="alensav" url="https://getpocket.com/a/read/2405847951" tags="git, рипозиторий, tig" ctime="20181210183438" dir="15444560788uk01f27os" file="text.html"/>
     <record id="15445457845gjbf5dnl3" name="ОПЕРАТИВНЫЕ КОМАНДЫ" author="alensav" url="" tags="команды,git, " ctime="20181211192944" dir="1544545784e7qkkr9mfm" file="text.html"/>
+    <record id="1544956908mzt6vb58we" name="ОГЛАВЛЕНИЕ_UBUNTU" author="alensav" url="" tags="настройки. данные, команды" ctime="20181216134148" dir="15449569089z81cju46e" file="text.html"/>
    </recordtable>
    <node crypt="" id="15437322986o0fl98cty" name="Ubuntu_Command">
     <recordtable>
@@ -63,6 +64,7 @@
    <node crypt="" id="1544800856rl0gmtktm0" name="INTERNET">
     <recordtable>
      <record id="1544800918skmgdunurm" name="TEST SPEED" author="alensav" url="https://www.shellhacks.com/ru/test-internet-speed-linux-command-line/" tags="скорость, тест, замер" ctime="20181214182158" dir="1544800918ibwyrysssu" file="text.html"/>
+     <record id="15449592467bcky3sisi" name="Облачные операционные системы. ТОП-6 лучших Cloud PC" author="alensav" url="http://la.by/news/oblachnye-operacionnye-sistemy-top-6-luchshih-cloud-pc" tags="облачный, виртуальный, интернет" ctime="20181216142046" dir="1544959246tey4e12pno" file="text.html"/>
     </recordtable>
    </node>
   </node>
