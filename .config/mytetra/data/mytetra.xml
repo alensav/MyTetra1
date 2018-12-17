@@ -55,6 +55,11 @@
       <record id="1544430870bvxhcpvvme" name="Чтение температуры процессора" author="alensav" url="https://geeksmagazine.org/post/409/kak-proverit-temperaturu-protsessora-v-ubuntu" tags="температура" ctime="20181210113430" dir="1544430870av2abqbylf" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1545040023lz8ct8rx30" name="Отечественное ПО">
+     <recordtable>
+      <record id="1545041636ic6pq5m2pw" name="Отечественное ПО" author="alensav" url="" tags="ос, операционная, система" ctime="20181217131356" dir="1545041636hjsqble2yi" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1544111400vnc868hc3v" name="GRUB">
     <recordtable>
