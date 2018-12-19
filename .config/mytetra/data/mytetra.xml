@@ -74,6 +74,11 @@
      <record id="15449592467bcky3sisi" name="Облачные операционные системы. ТОП-6 лучших Cloud PC" author="alensav" url="http://la.by/news/oblachnye-operacionnye-sistemy-top-6-luchshih-cloud-pc" tags="облачный, виртуальный, интернет" ctime="20181216142046" dir="1544959246tey4e12pno" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="15451483932alkp4upu2" name="РЕЦЕПТЫ">
+    <recordtable>
+     <record id="1545148485tbnadyjzg6" name="Рецепты_2018-2019" author="alensav" url="" tags="" ctime="20181218185445" dir="1545148485jxkkhpobuy" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
