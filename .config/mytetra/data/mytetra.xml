@@ -17,6 +17,7 @@
     <record id="1545139696z548o3rchc" name="ВЕТВИ" author="alensav" url="https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%81%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D1%8F" tags="git, ветви" ctime="20181218162816" dir="1545139696fnlyxn21q5" file="text.html"/>
     <record id="15453034211cbbpr0qvv" name="Сведения о remote файлах" author="alensav" url="" tags="git, настройки" ctime="20181220135701" dir="1545303421u241d0pv9b" file="text.html"/>
     <record id="15455702772eercx25cp" name="MyTetra_XML" author="alensav" url="" tags="" ctime="20181223160437" dir="1545570277oocsqa066a" file="text.html"/>
+    <record id="1545575790dnzovmz4bk" name="RSYNC" author="alensav" url="https://losst.ru/rsync-primery-sinhronizatsii" tags="sync, синхронизация" ctime="20181223173630" dir="1545575790se1nf713mz" file="text.html"/>
    </recordtable>
    <node crypt="" id="15437322986o0fl98cty" name="Ubuntu_Command">
     <recordtable>
