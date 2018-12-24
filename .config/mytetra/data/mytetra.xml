@@ -18,6 +18,7 @@
     <record id="15453034211cbbpr0qvv" name="Сведения о remote файлах" author="alensav" url="" tags="git, настройки" ctime="20181220135701" dir="1545303421u241d0pv9b" file="text.html"/>
     <record id="15455702772eercx25cp" name="MyTetra_XML" author="alensav" url="" tags="" ctime="20181223160437" dir="1545570277oocsqa066a" file="text.html"/>
     <record id="1545575790dnzovmz4bk" name="RSYNC" author="alensav" url="https://losst.ru/rsync-primery-sinhronizatsii" tags="sync, синхронизация" ctime="20181223173630" dir="1545575790se1nf713mz" file="text.html"/>
+    <record id="15456455651ory5f84d9" name="RSYNC_НАСТРОЙКИ1" author="alensav" url="https://www.dmosk.ru/instruktions.php?object=rsync-server" tags="sync, синхронизация, настройки" ctime="20181224125925" dir="1545645565vfw1qu8cry" file="text.html"/>
    </recordtable>
    <node crypt="" id="15437322986o0fl98cty" name="Ubuntu_Command">
     <recordtable>
@@ -49,6 +50,7 @@
      <record id="1544786642dojfkp8tup" name="NETWORK" author="alensav" url="" tags="сеть, настройка, локальная" ctime="20181214142402" dir="1544786642w71fg5n9xm" file="text.html"/>
      <record id="1544858699zl2vuz6k8n" name="Ярлыки программ" author="alensav" url="" tags="ярлык, приложение, программа" ctime="20181215102459" dir="1544858699cjanx9x7dw" file="text.html"/>
      <record id="15451183299klk4bpwdm" name="Распознавание текста" author="alensav" url="https://help.ubuntu.ru/fullcircle/36/top5_36" tags="текст, ocr, распознавание" ctime="20181218103209" dir="154511832945bq0uszp4" file="text.html"/>
+     <record id="15456507198mu4yiizoh" name="RSYNC_Настройка2" author="alensav" url="https://go.backupland.com/faq/install_rsync/install_rsync.html" tags="sync, настройка, синхронизация" ctime="20181224142519" dir="1545650719hxy8bk3joh" file="text.html"/>
     </recordtable>
     <node crypt="" id="154382674372he9wscu4" name="GitLab">
      <recordtable>
