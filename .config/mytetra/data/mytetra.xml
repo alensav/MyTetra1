@@ -51,6 +51,10 @@
      <record id="1544858699zl2vuz6k8n" name="Ярлыки программ" author="alensav" url="" tags="ярлык, приложение, программа" ctime="20181215102459" dir="1544858699cjanx9x7dw" file="text.html"/>
      <record id="15451183299klk4bpwdm" name="Распознавание текста" author="alensav" url="https://help.ubuntu.ru/fullcircle/36/top5_36" tags="текст, ocr, распознавание" ctime="20181218103209" dir="154511832945bq0uszp4" file="text.html"/>
      <record id="15456507198mu4yiizoh" name="RSYNC_Настройка2" author="alensav" url="https://go.backupland.com/faq/install_rsync/install_rsync.html" tags="sync, настройка, синхронизация" ctime="20181224142519" dir="1545650719hxy8bk3joh" file="text.html"/>
+     <record id="1545671116gw3rn7mvvb" name="FSTAB редактирование" author="alensav" url="https://help.ubuntu.ru/wiki/fstab" tags="" ctime="20181224200516" dir="1545671116u9i7278iog" file="text.html"/>
+     <record id="1545672020tji762x5xr" name="Командная строка" author="alensav" url="https://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0" tags="ubuntu, command, команды" ctime="20181224202020" dir="1545672020mrsy289h40" file="text.html"/>
+     <record id="1545672663um4vr7nv7o" name="Планирование заданий" author="alensav" url="https://habr.com/company/ruvds/blog/336060/" tags="" ctime="20181224203103" dir="1545672663r239aqrnvo" file="text.html"/>
+     <record id="1545679271amiiedsi8t" name="Автозапуск_UBUNTU" author="alensav" url="https://programjutsu.wordpress.com/2010/06/23/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4-%D0%BF%D1%80%D0%B8-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B5-ubuntu/" tags="авто, запуск" ctime="20181224222111" dir="1545679271c72w2t454b" file="text.html"/>
     </recordtable>
     <node crypt="" id="154382674372he9wscu4" name="GitLab">
      <recordtable>
