@@ -19,6 +19,8 @@
     <record id="15455702772eercx25cp" name="MyTetra_XML" author="alensav" url="" tags="" ctime="20181223160437" dir="1545570277oocsqa066a" file="text.html"/>
     <record id="1545575790dnzovmz4bk" name="RSYNC" author="alensav" url="https://losst.ru/rsync-primery-sinhronizatsii" tags="sync, синхронизация" ctime="20181223173630" dir="1545575790se1nf713mz" file="text.html"/>
     <record id="15456455651ory5f84d9" name="RSYNC_НАСТРОЙКИ1" author="alensav" url="https://www.dmosk.ru/instruktions.php?object=rsync-server" tags="sync, синхронизация, настройки" ctime="20181224125925" dir="1545645565vfw1qu8cry" file="text.html"/>
+    <record id="1545724717x3o9xcu9xp" name="RSYNC_настройки2" author="alensav" url="https://k0n0n3nk0.wordpress.com/2011/05/11/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC-rsync-%D0%B7%D0%B0-5-%D0%BC%D0%B8%D0%BD%D1%83%D1%82/" tags="sync, синхронизация" ctime="20181225105837" dir="15457247176q32m40xvs" file="text.html"/>
+    <record id="154572569378qhy5ecko" name="RSYNC_примеры использования" author="alensav" url="https://greendail.ru/node/rsync-primery-ispolzovaniya" tags="sync, синхронизация" ctime="20181225111453" dir="1545725693zlkiufjjlt" file="text.html"/>
    </recordtable>
    <node crypt="" id="15437322986o0fl98cty" name="Ubuntu_Command">
     <recordtable>
@@ -89,6 +91,11 @@
      <record id="1545148485tbnadyjzg6" name="Рецепты_2018-2019" author="alensav" url="" tags="" ctime="20181218185445" dir="1545148485jxkkhpobuy" file="text.html"/>
     </recordtable>
    </node>
+  </node>
+  <node crypt="" id="1545729819bojqdzgxyp" name="СВЕТОДИОДНЫЕ_л-пы">
+   <recordtable>
+    <record id="15457300561cbn5g2p45" name="Учет ламп" author="alennsav" url="" tags="лампы, светодиодные" ctime="20181225122736" dir="1545730056s9nbfgqwdo" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
