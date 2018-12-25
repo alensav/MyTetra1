@@ -26,7 +26,12 @@
     <recordtable>
      <record id="1543732416pofscthyn3" name="SSH_пересылка файлов" author="alensav" url="" tags="ssh_, ubuntu" ctime="20181202093336" dir="1543732416t8o93qjbis" file="text.html"/>
      <record id="1543739752llscxwqfwp" name="XEOMA" author="alensav" url="" tags="" ctime="20181202113552" dir="1543739752xn467tdg96" file="text.html"/>
-     <record id="1543742325vnds07cd1i" name="XEOMA_РУКОВОДСТВО" author="" url="" tags="" ctime="20181202121845" dir="1543742325si41cnd6b2" file="text.html"/>
+     <record id="1543742325vnds07cd1i" name="XEOMA_РУКОВОДСТВО" author="" url="" tags="" ctime="20181202121845" dir="1543742325si41cnd6b2" file="text.html">
+      <files>
+       <file id="1545732834djxvjjexdx" fileName="user_manual_ru(1).pdf" type="file"/>
+       <file id="15457329097lamu5mgef" fileName="user_manual_ru(1).pdf" link="/home/alensav/Загрузки/user_manual_ru(1).pdf" type="link"/>
+      </files>
+     </record>
      <record id="15439373093rjt28u1ry" name="Android_на_Virtualbox" author="alensav" url="http://lumpics.ru/installation-android-on-virtualbox/" tags="android, virtual" ctime="20181204182829" dir="1543937309o0xzl428sb" file="text.html"/>
      <record id="15439450349pxfcb9q1b" name="Flash player" author="alensav" url="https://support.mozilla.org/ru/kb/upravlenie-plaginom-flash" tags="ubuntu, настройки" ctime="20181204203714" dir="15439450343as5j2ma0o" file="text.html"/>
      <record id="15439924086nqp263ahw" name="dd_Commands" author="alensav" url="https://losst.ru/kak-sdelat-zagruzochnuyu-fleshku-ubuntu" tags="dd, command, командыб загрузочная" ctime="20181205094648" dir="1543992408g897o5ntba" file="text.html"/>
