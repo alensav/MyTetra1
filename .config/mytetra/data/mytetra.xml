@@ -63,6 +63,9 @@
      <record id="1545672663um4vr7nv7o" name="Планирование заданий" author="alensav" url="https://habr.com/company/ruvds/blog/336060/" tags="" ctime="20181224203103" dir="1545672663r239aqrnvo" file="text.html"/>
      <record id="1545679271amiiedsi8t" name="Автозапуск_UBUNTU" author="alensav" url="https://programjutsu.wordpress.com/2010/06/23/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4-%D0%BF%D1%80%D0%B8-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B5-ubuntu/" tags="авто, запуск" ctime="20181224222111" dir="1545679271c72w2t454b" file="text.html"/>
      <record id="1545822379v8hoq3igkp" name="CRON" author="alensav" url="https://help.ubuntu.ru/wiki/cron" tags="cron, ubuntu" ctime="20181226140619" dir="1545822379hn9qzxuqm8" file="text.html"/>
+     <record id="1545839011i3ouh81adg" name="Command at" author="alensav" url="http://blog.sedicomm.com/2017/11/21/kak-ispolzovat-komandu-at-dlya-planirovaniya-zadachi-v-linux/" tags="" ctime="20181226184331" dir="15458390113hm1qzepll" file="text.html"/>
+     <record id="15458398636r3xjjqzml" name="Ошибки CRON" author="alensav" url="https://system-admins.ru/ubuntu-linux-proverka-oshibok-cron/" tags="" ctime="20181226185743" dir="1545839863luafbjw2wd" file="text.html"/>
+     <record id="1545841662ktq52q5316" name="15 лучших КОМАНД CRON" author="alen" url="http://devacademy.ru/posts/15-otlichnykh-primierov-dlia-sozdaniia-cron-zadach-v-linux/" tags="cron, command, настройки" ctime="20181226192742" dir="1545841662vyx49x78tp" file="text.html"/>
     </recordtable>
     <node crypt="" id="154382674372he9wscu4" name="GitLab">
      <recordtable>
